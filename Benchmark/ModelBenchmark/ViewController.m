@@ -8,14 +8,14 @@
 
 #import <QuartzCore/QuartzCore.h>
 #import "ViewController.h"
-#import "DateFormatter.h"
+//#import "DateFormatter.h"
 #import "GitHubUser.h"
 #import "YYWeiboModel.h"
 #import "FEWeiboModel.h"
 #import "MTWeiboModel.h"
 #import "JSWeiboModel.h"
 #import "MJWeiboModel.h"
-#import "ModelBenchmark-Swift.h"
+//#import "ModelBenchmark-Swift.h"
 
 @implementation ViewController
 
@@ -390,7 +390,7 @@
     
     
     /// Benchmark swift
-    [GithubUserBenchmark benchmark];
+//    [GithubUserBenchmark benchmark];
     
     
     

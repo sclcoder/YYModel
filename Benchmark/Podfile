@@ -11,11 +11,11 @@ pod 'MJExtension'
 pod 'YYModel'
 
 # Swift
-pod 'Argo'
-pod 'Gloss'
-pod 'HandyJSON'
-pod 'ObjectMapper'
-pod 'SwiftyJSON'
+#pod 'Argo'
+#pod 'Gloss'
+#pod 'HandyJSON'
+#pod 'ObjectMapper'
+#pod 'SwiftyJSON'
 
 # Generator
 # https://github.com/Ahmed-Ali/JSONExport

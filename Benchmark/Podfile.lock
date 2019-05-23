@@ -1,0 +1,34 @@
+PODS:
+  - FastEasyMapping (1.2.2)
+  - JSONModel (1.8.0)
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle/extobjc (2.1.0)
+  - MJExtension (3.0.15.1)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - FastEasyMapping
+  - JSONModel
+  - Mantle
+  - MJExtension
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FastEasyMapping
+    - JSONModel
+    - Mantle
+    - MJExtension
+    - YYModel
+
+SPEC CHECKSUMS:
+  FastEasyMapping: cc13aa6608aeb171bc0ea895876434a7328a153a
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 0f338bf987f2e89e70c84f4a4927ebc516fb4531
+
+COCOAPODS: 1.5.3
